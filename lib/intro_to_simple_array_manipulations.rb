@@ -14,3 +14,7 @@ def pop_with_args(array)
   two_returned = array.pop(2)
 end
 
+def using_shift(array)
+  array.shift
+end
+
