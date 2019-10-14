@@ -5,5 +5,3 @@ end
 def using_unshift(array, update)
   array.unshift(update)
 end
-
-def 
